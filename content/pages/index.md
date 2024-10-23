@@ -12,7 +12,7 @@ sections:
     actions: []
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/e51f24a9252cc7d88341237ce9384324.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Title
