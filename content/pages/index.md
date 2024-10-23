@@ -8,7 +8,12 @@ sections:
     text: >
       Hello and welcome to my WIP page for what I do. I really only bought this
       domain so I could hold it for my Bluesky account. But I also will use it
-      for hosting the silly projects I do, as well as other things. 
+      for hosting the silly projects I do, as well as other things.
+
+
+
+
+      i literally have no idea what i am doing so this is WIP
     actions: []
     image:
       type: Image
