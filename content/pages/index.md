@@ -6,9 +6,9 @@ sections:
     title: i hate node.js
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Hello and welcome to my WIP page for what I do. I really only bought this
+      domain so I could hold it for my Bluesky account. But I also will use it
+      for hosting the silly projects I do, as well as other things. 
     actions: []
     image:
       type: Image
