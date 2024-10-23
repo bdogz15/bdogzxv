@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: i hate node.js
+    title: i hate next.js
     subtitle: bdogz doesn't like building websites
     text: >
       Hello and welcome to my WIP page for what I do. I really only bought this
