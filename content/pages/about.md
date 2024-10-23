@@ -24,4 +24,8 @@ sections:
 
 
       \*\*BDOGZ STINKS AT DOING THIS BUT I DID IT ENOUGH FOR NOW\*\*
+    image:
+      type: Image
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: Image alt text
 ---
