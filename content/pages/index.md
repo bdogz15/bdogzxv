@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: i hate node.js
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: bdogz doesn't like building websites
     text: >
       Hello and welcome to my WIP page for what I do. I really only bought this
       domain so I could hold it for my Bluesky account. But I also will use it
