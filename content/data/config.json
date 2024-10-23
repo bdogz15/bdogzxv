@@ -19,7 +19,7 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Socials",
                 "url": "/socials",
                 "underline": "hover"
             }
