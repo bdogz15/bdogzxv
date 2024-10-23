@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: Lore
     text: >
       This is **Markdown** *text*.
 
