@@ -6,12 +6,22 @@ sections:
     title: ''
     subtitle: Lore
     text: >
-      This is **Markdown** *text*.
+      Hello! I am Bdogz, nice to meet you!
+
+
+      I am 25, use he / him pronouns, and have two cats and two ferrets! I am
+      involved with a few small scale low effort projects to bring mirrors of
+      posts from Twitter to Bluesky. 
+
+
+      I also play in a band, although we have been on semi-hiatus for a while. 
+
+
+      I am a big game person, I love to build PC's, I collect games for a
+      living, and I get involved with many things. 
 
 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+
+      \*\*BDOGZ STINKS AT DOING THIS BUT I DID IT ENOUGH FOR NOW\*\*
 ---
