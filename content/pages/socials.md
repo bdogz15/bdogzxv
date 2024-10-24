@@ -20,6 +20,12 @@ sections:
         size: large
         variant: contained
         color: primary
+      - type: Button
+        label: GitHub
+        url: 'https://github.com/bdogz15'
+        size: medium
+        variant: text
+        color: primary
     image:
       type: Image
       altText: Hero section image
