@@ -42,7 +42,7 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Socials",
                 "underline": "hover",
                 "url": "/socials"
             }
