@@ -23,7 +23,7 @@ sections:
       - type: Button
         label: GitHub
         url: 'https://github.com/bdogz15'
-        size: medium
+        size: large
         variant: contained
         color: primary
     image:
