@@ -15,7 +15,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
+        label: Mastodon
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
         variant: contained
