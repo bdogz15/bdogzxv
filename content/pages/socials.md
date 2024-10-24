@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: Start Building
-        url: ''
+        url: 'https://bsky.app/profile/bdogz.xyz'
         size: large
         variant: contained
         color: primary
