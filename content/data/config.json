@@ -1,8 +1,8 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/ryo-yamada-bocchi.png",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "bdogz and his wacky website (WIP)",
         "navLinks": [
             {
                 "type": "Link",
@@ -14,18 +14,19 @@
                 "type": "Link",
                 "label": "About",
                 "url": "/about",
-                "underline": "hover"
+                "underline": "hover",
+                "color": "primary"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "label": "Socials",
+                "url": "/socials",
                 "underline": "hover"
             }
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/).",
+        "copyrightText": "bdogz is going insane and doesn't know what he's doing 2024\n",
         "navLinks": [
             {
                 "type": "Link",
@@ -41,9 +42,9 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Socials",
                 "underline": "hover",
-                "url": "https://docs.netlify.com/visual-editor/overview/"
+                "url": "/socials"
             }
         ]
     }
