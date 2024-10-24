@@ -25,7 +25,7 @@ sections:
         url: 'https://github.com/bdogz15'
         size: medium
         variant: text
-        color: inherit
+        color: primary
     image:
       type: Image
       altText: Hero section image
