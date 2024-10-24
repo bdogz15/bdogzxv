@@ -24,7 +24,7 @@ sections:
         label: GitHub
         url: 'https://github.com/bdogz15'
         size: medium
-        variant: text
+        variant: contained
         color: primary
     image:
       type: Image
