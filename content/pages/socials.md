@@ -16,7 +16,7 @@ sections:
         color: primary
       - type: Button
         label: Mastodon
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: 'https://mastodon.social/@dream_composure'
         size: large
         variant: contained
         color: primary
