@@ -21,7 +21,7 @@ sections:
         label: Read the Docs
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: medium
-        variant: text
+        variant: outlined
         color: primary
     image:
       type: Image
