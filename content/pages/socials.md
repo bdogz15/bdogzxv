@@ -22,7 +22,7 @@ sections:
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: medium
         variant: contained
-        color: inherit
+        color: secondary
     image:
       type: Image
       altText: Hero section image
